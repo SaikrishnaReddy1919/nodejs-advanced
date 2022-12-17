@@ -84,4 +84,4 @@ const isSignatureValid = verifyFunction.verify(
   'base64',
 )
 
-console.log('Is Signature Valid ... ? : ', isSignatureValid)
+console.log('Is token Valid ... ? : ', isSignatureValid)
